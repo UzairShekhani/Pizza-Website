@@ -1,0 +1,94 @@
+#Hero 
+Authentic Pizzas Timeless Flavors
+lorem20
+
+#Speciality
+const menuData = [
+    {
+      id: 1,
+      img: "src/assets/img/menu1.jpg",
+      title: "Margarita Marvel",
+      price: "16.99",
+    },
+    {
+      id: 2,
+      img: "src/assets/img/menu2.jpg",
+      title: "Pesto Paradise",
+      price: "18.99",
+    },
+    {
+      id: 3,
+      img: "src/assets/img/menu3.jpg",
+      title: "Hawaiian Bliss",
+      price: "14.99",
+    },
+    {
+      id: 4,
+      img: "src/assets/img/menu4.jpg",
+      title: "Truffle Treasures",
+      price: "15.99",
+    },
+    {
+      id: 5,
+      img: "src/assets/img/menu5.jpg",
+      title: "Farmhouse Harvest",
+      price: "18.99",
+    },
+    {
+      id: 6,
+      img: "src/assets/img/menu6.jpg",
+      title: "Cheese Frenzy",
+      price: "13.99",
+    },
+  ];
+
+
+  #menucard 
+  lorem8
+
+
+#menu 
+const menuData = [
+    {
+      id: 7,
+      img: "src/assets/img/menu7.jpg",
+      title: "Margarita Marvel",
+      price: "16.99",
+    },
+    {
+      id: 8,
+      img: "src/assets/img/menu8.jpg",
+      title: "Pesto Paradise",
+      price: "18.99",
+    },
+    {
+      id: 9,
+      img: "src/assets/img/menu9.jpg",
+      title: "Hawaiian Bliss",
+      price: "14.99",
+    },
+    {
+      id: 10,
+      img: "src/assets/img/menu10.jpg",
+      title: "Truffle Treasures",
+      price: "15.99",
+    },
+  ];
+
+
+
+#review
+Sophia Azura
+John Deo
+Victoria Zoe
+
+lorem30
+
+
+#footer 
+CheesyBites
+lorem10
+
+CheesyBites@gmail.com
++64 958 248 966
+Social media
